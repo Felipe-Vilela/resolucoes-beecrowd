@@ -11,5 +11,5 @@
 <div align="center"> 
     <p>Deixo aqui com quais linguagens resolvi os exercícios Obs. Agora nesse inicio de projeto só foram feitos exercícios coma  Linguagem C</p>
     <img alt="Linguagem C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-    <img align="center" alt="Linguagem Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+    <img alt="Linguagem Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 <div>
